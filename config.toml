@@ -1,7 +1,7 @@
 baseURL = 'http://lotusotho.com/'
 languageCode = 'en-us'
 title = 'Lotusotho Place'
-theme = "m10c"
+theme = 'm10c'
 
 [params]
 
