@@ -1,14 +1,14 @@
 baseURL = 'http://lotusotho.com/'
 languageCode = 'en-us'
-title = 'Lotusotho Place'
+title = 'Lotusotho Little Website'
 theme = 'm10c'
 
 [params]
 
 author = "Lotusotho"
 description = "My little blogroll"
-
-[[menu.main]]
+avatar = "./img/capybara.jpg"
+# [[menu.main]]
    # identifier = "newblog"
    # name = "New Blog"
    # url = "/content/newblog/"
