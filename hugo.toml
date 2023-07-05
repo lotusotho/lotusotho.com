@@ -2,16 +2,8 @@ baseURL = 'http://lotusotho.com/'
 languageCode = 'en-us'
 title = 'Lotusotho Place'
 theme = "m10c"
-
-[params]
-
 author = "Lotusotho"
 description = "My little blogroll"
-
-[[menu.main]]
-   # identifier = "newblog"
-   # name = "New Blog"
-   # url = "/content/newblog/"
 
 [[params.social]]
     icon = "github"
