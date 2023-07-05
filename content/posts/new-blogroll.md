@@ -1,7 +1,7 @@
 ---
 title: "My New Blogroll!"
 date: 2023-07-05T09:29:42+02:00
-draft: true
+draft: false
 ---
 
 # Today I'm going to start my new blogroll
