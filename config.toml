@@ -1,4 +1,4 @@
-baseURL = 'http://lotusotho.com/'
+baseURL = 'http://lotusotho.com/posts/new-blogroll.md'
 languageCode = 'en-us'
 title = 'Lotusotho Little Website'
 theme = 'm10c'
@@ -12,6 +12,19 @@ avatar = "./img/capybara.jpg"
    # identifier = "newblog"
    # name = "New Blog"
    # url = "/content/newblog/"
+
+[menu]
+   [[menu.main]]
+   identifier = "home"
+   name = "Home"
+   url = "/posts/new-blogroll.md"
+   weight = 1
+
+   [[menu.main]]
+   identifier = "about"
+   name = "About"
+   url = "/about/"
+   weight = 1
 
 [[params.social]]
     icon = "github"
