@@ -8,22 +8,12 @@ theme = 'm10c'
 author = "Lotusotho"
 description = "My little blogroll"
 avatar = "./img/capybara.jpg"
-# [[menu.main]]
-   # identifier = "newblog"
-   # name = "New Blog"
-   # url = "/content/newblog/"
 
 [menu]
    [[menu.main]]
    identifier = "home"
    name = "Home"
-   url = "/posts/new-blogroll.md"
-   weight = 1
-
-   [[menu.main]]
-   identifier = "about"
-   name = "About"
-   url = "/about/"
+   url = "/"
    weight = 1
 
 [[params.social]]
