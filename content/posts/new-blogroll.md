@@ -5,10 +5,6 @@ title: "My New Blogroll!"
 date: 2023-07-05T09:29:42+02:00
 
 draft: false
-<<<<<<< HEAD
-=======
-
->>>>>>> 6e01ba7d03ddb0f814eb7495f8fa51b0a0167ff3
 ---
 
 
