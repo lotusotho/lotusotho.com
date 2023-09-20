@@ -23,5 +23,3 @@ I think it's going to be way better so I don't have to worry about having to bui
 ## Either way...
 I probably will be posting stuff that I find interesting or that I do, I'll take this blog as something more of a hobby and just to put things out there, rather than using it as a porfolio, but ***who knows???***.
 So yeah, first post into the void of the Internet, it's really cool that I can host this for free using Github Pages, only had to pay for the domain, which, it was optional tbh.
-
-It seems like nowadays the internet is as free and as censored as ever at the same time.
